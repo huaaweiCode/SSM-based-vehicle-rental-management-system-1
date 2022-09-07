@@ -1,11 +1,5 @@
 # 基于SSM的车辆租赁管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**租车1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的车辆租赁管理系统1拥有两种角色
@@ -66,11 +60,4 @@
 
 ![销售人员-功能菜单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517930.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**租车1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
